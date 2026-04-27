@@ -318,21 +318,68 @@ is being done = 正在被……
 ### 最通用保命版
 
 ```text
-Nowadays, more and more people pay attention to this topic. It is very important in our daily life.
+Nowadays,
+more and more people
+pay attention to this topic.
+It is very important
+in our daily life.
 
-First, it can help us in many ways. It can make our life easier and better. Second, it can also bring some problems. Some people may spend too much time on it.
+First,
+it can help us in many ways.
+It can make our life
+easier and better.
+Second,
+it can also bring some problems.
+Some people may spend
+too much time on it.
 
-I think we should look at it in a right way. We should make good use of it. We should learn more from it. We should not use it in a bad way. Only in this way can we have a better life.
+It is helpful
+for both students and workers.
+At the same time,
+we should not use it too much.
+
+I think we should look at it
+in a right way.
+We should make good use of it.
+We should learn more from it.
+We should not use it
+in a bad way.
+Only in this way
+can we have a better life.
 ```
 
 ### 如果题目是 AI，可以稍微改成这样
 
 ```text
-Nowadays, more and more people use AI. It is very important in our daily life.
+Nowadays,
+more and more people use AI.
+It is very important
+in our daily life.
 
-First, we can use AI to study English. It can help us find information quickly and make our study easier. Second, it can also bring some problems. Some people may depend on it too much.
+First,
+we can use AI
+to study English.
+It can help us
+find information quickly
+and make our study easier.
+Second,
+it can also bring some problems.
+Some people may depend on it
+too much
+and stop thinking by themselves.
 
-I think AI is useful, but we should use it in a right way. We should make good use of it. Only in this way can we have a better life.
+It is helpful
+for both students and workers.
+At the same time,
+we should not use it too much.
+
+I think AI is useful,
+but we should use it
+in a right way.
+We should make good use of it
+and learn more from it.
+Only in this way
+can we have a better life.
 ```
 
 ### 作文必背词
